@@ -1,0 +1,3 @@
+#nginx logs
+wtest.access.log
+wtest.error.log
